@@ -54,7 +54,7 @@ public class rpsgame {
         {
             System.out.println("draw play again!!" );
         }
-        System.out.println("computer choise = " + pcchar);
+        System.out.println("computer choise > " + pcchar);
     }
 
 
